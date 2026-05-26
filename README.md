@@ -27,6 +27,14 @@ This repository is a working library of prompt structures, team-ready prompt pac
 
 Treat prompts as systems, not magic spells.
 
+## Related repositories
+
+- [Enterprise AI Use-Case Blueprints](https://github.com/suchetna/enterprise-ai-use-case-blueprints)
+- [AI Workflow Redesign Lab](https://github.com/suchetna/ai-workflow-redesign-lab)
+- [AI Governance Guardrails Kit](https://github.com/suchetna/ai-governance-guardrails-kit)
+- [Prompt Systems for Teams](https://github.com/suchetna/prompt-systems-for-teams)
+- [AI Adoption Champion Kit](https://github.com/suchetna/ai-adoption-champion-kit)
+
 ## Created by
 
 Suchetana Bauri  
