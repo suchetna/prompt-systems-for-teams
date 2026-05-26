@@ -27,6 +27,12 @@ This repository is a working library of prompt structures, team-ready prompt pac
 
 Treat prompts as systems, not magic spells.
 
+## Repository structure
+
+- [Frameworks](./frameworks/prompt-system-framework.md)
+- [Templates](./templates/team-prompt-template.md)
+- [Checklists](./checklists/prompt-review-checklist.md)
+
 ## Related repositories
 
 - [Enterprise AI Use-Case Blueprints](https://github.com/suchetna/enterprise-ai-use-case-blueprints)
